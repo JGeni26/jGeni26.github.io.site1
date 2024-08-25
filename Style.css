@@ -1,0 +1,6 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 200px;
+}
